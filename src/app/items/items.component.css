@@ -1,0 +1,27 @@
+.itemContainer {
+  background-color: aqua;
+  height: 200px;
+  width: 200px;
+  display: flex;
+}
+
+.imgContainer {
+  height: 40%;
+  width: 100%;
+  background-color: orange;
+}
+
+.img {
+  height: 100px;
+  width: 100px;
+}
+
+.titleContainer {
+  background-color: blueviolet;
+  height: 10%;
+  width: 100%;
+}
+.descContainer {
+  background-color: brown;
+  height: 30%;
+}

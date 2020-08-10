@@ -1,0 +1,14 @@
+<div class="d-flex flex-wrap container-fluid">
+  <div
+    *ngFor="let x of getItems()"
+    class="d-flex"
+    (click)="navigateToDetailPage(x)"
+  >
+    <app-items
+      [name]="x.name"
+      [description]="x.description"
+      [imgUrl]="x.imgUrl"
+      [price]="x.price"
+    ></app-items>
+  </div>
+</div>

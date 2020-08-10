@@ -1,0 +1,13 @@
+<div class="d-flex justify-content-center align-items-center">
+  <img class="image" [src]="getImgUrl()" />
+  <div
+    class="d-flex justify-content-center align-items-center flex-column"
+    style="position: absolute;"
+  >
+    <p class="imageTextTitle">{{ getTitle() | titlecase }}</p>
+    <p class="imageTextDescription">{{ getDescription() }}</p>
+    <button class="btn btn-outline-light" (click)="navigateToStorePage()">
+      Visit Store
+    </button>
+  </div>
+</div>

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "banana",
+    "description": "a banana.",
+    "imgUrl": "https://images.unsplash.com/photo-1528825871115-3581a5387919?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=358&q=80",
+    "price": 2
+  },
+  {
+    "name": "orange",
+    "description": "an orange.",
+    "imgUrl": "https://images.unsplash.com/photo-1557800636-894a64c1696f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=401&q=80",
+    "price": 3
+  },
+  {
+    "name": "apple",
+    "description": "an apple.",
+    "imgUrl": "https://images.unsplash.com/photo-1579613832125-5d34a13ffe2a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+    "price": 1
+  },
+  {
+    "name": "coconut",
+    "description": "a coconut.",
+    "imgUrl": "https://images.unsplash.com/photo-1580554191498-273d5d0ee6ef?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+    "price": 4
+  },
+  {
+    "name": "melon",
+    "description": "a melon.",
+    "imgUrl": "https://images.unsplash.com/photo-1539248519424-b4b8f9a99a4a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+    "price": 6
+  },
+  {
+    "name": "mango",
+    "description": "a mango.",
+    "imgUrl": "https://images.unsplash.com/photo-1580928986783-bd8256003f29?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+    "price": 2
+  },
+  {
+    "name": "strawberry",
+    "description": "a strawberry.",
+    "imgUrl": "https://images.unsplash.com/photo-1568966299181-bb7282cc84f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+    "price": 1.5
+  },
+  {
+    "name": "kiwi",
+    "description": "a kiwi.",
+    "imgUrl": "https://images.unsplash.com/photo-1552265129-2ac1a82da59e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1052&q=80",
+    "price": 1
+  }
+]

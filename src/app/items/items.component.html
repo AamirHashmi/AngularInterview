@@ -1,0 +1,17 @@
+<div class="card" style="width: 18rem;">
+  <img
+    class="card-img-top"
+    height="300px"
+    style="object-fit: cover;"
+    [src]="getImgUrl()"
+  />
+  <div class="card-body">
+    <div class="card-title">
+      <h5 class="title-card">{{ getName() | uppercase }}</h5>
+    </div>
+    <p class="card-text">{{ getDescription() }}</p>
+  </div>
+  <div class="card-footer">
+    <p class="card-text">£{{ getPrice() }}</p>
+  </div>
+</div>
